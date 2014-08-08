@@ -1,0 +1,1 @@
+1st version of the GMRF-SLAM paper written by Mahdi.
